@@ -19,6 +19,5 @@ Iam computer science student
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sammitdk&theme=blood-dark&hide_border=true)](https://git.io/streak-stats)  
 
-![](https://github-readme-stats.vercel.app/api?username=Sammitdk&theme=radical&show_icons=true)
 
 
