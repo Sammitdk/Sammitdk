@@ -3,9 +3,8 @@
 
 Iam computer science student
 
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with Flutter and Open Source contribution
+- 🌱 I’m currently learning SAP
+- 👯 I’m looking to collaborate and contribute 
 
 
 ## Skills
